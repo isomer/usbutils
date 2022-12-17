@@ -388,7 +388,7 @@ static void print_tables(void)
 	}
 
 	printf("--------------------------------------------\n");
-	printf("\t\t Conutry Codes\n");
+	printf("\t\t Country Codes\n");
 	printf("--------------------------------------------\n");
 
 	for (i = 0; i < HASHSZ; i++) {
